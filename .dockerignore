@@ -1,0 +1,11 @@
+node_modules
+.git
+.gitignore
+.burnchat-stats.json
+.env
+*.md
+!README.md
+deploy/
+LICENSE
+Dockerfile
+.dockerignore

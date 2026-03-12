@@ -1,0 +1,38 @@
+{
+  "name": "burnchat",
+  "version": "2.5.5",
+  "description": "Disposable chat rooms. Zero logs. No database. Messages live in RAM only.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "chat",
+    "ephemeral",
+    "privacy",
+    "disposable",
+    "anonymous",
+    "zero-logs",
+    "no-database",
+    "self-hosted",
+    "websocket",
+    "socket.io"
+  ],
+  "author": "BurnChat",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_USERNAME/burnchat"
+  },
+  "homepage": "https://burnchat.io",
+  "bugs": {
+    "url": "https://github.com/YOUR_USERNAME/burnchat/issues"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "dependencies": {
+    "express": "^4.18.0",
+    "socket.io": "^4.5.0"
+  }
+}
