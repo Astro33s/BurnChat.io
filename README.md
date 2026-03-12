@@ -38,7 +38,7 @@ The most secure data is data that doesn't exist.
 ## Quick Start
 
 ```bash
-git clone https://github.com/Astro33s/burnchat.git
+git clone https://github.com/Astro33s/BurnChat.io
 cd burnchat
 npm install
 node server.js
